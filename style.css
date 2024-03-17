@@ -6,5 +6,32 @@
   }
   .background {
     background-color:#2C3139;
+    max-width: 100%;
   }
-  
+  .line_size {
+    width: 50px;
+    height: 50px;
+  }
+  .line_size img {
+    max-width: 50%;
+    max-height: 50%;
+  }
+    .color {
+        color: white;
+    }
+  .main_picture {
+    width:100%;
+    height: 200%;
+}
+.h5 {
+    margin-bottom: 5px;
+}
+.photo_size {
+    width: 80px;
+    height: 70px;
+    padding-top: 10px;
+}
+.borders {
+    border: 4px solid black;
+    padding: 10px;
+}
